@@ -35,7 +35,7 @@ To run **Fitlife** locally, run this command on your git bash:
 
 Linux and macOS:
 
-```bash
+```bash css
 sudo git clone https://github.com/codewithsadee/fitlife.git
 --rich-black-fogra-29_50: hsl(210, 26%, 11%, 0.5);
   --rich-black-fogra-29-1: hsl(210, 26%, 11%);
